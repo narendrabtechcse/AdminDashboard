@@ -1,0 +1,22 @@
+body{
+    font-family: "Helvetica Neue",sans-serif;
+	font-size: 18px;
+}
+.dropdown-item:hover{
+    background: linear-gradient(45deg,darkslategray,black);
+    color: white !important;
+    box-shadow: 0 0 5px darkslategray;
+}
+.bg-light-blue{
+    background-color: lightblue;
+}
+.bg-light-green{
+    background-color: lightgreen;
+}
+.bg-light-salmon{
+    background-color: lightsalmon;
+}
+.p_image{
+    box-shadow: 0 0 10px #003b3b;
+    border-radius: 10px;
+}
